@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>expect(${1:target}).not.toBeUndefined();</string>
 	<key>name</key>
-	<string>expect not to be defined</string>
+	<string>expect not to be undefined</string>
 	<key>scope</key>
 	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>
