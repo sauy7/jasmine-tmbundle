@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>expect to throw</string>
 	<key>tabTrigger</key>
-	<string>et</string>
+	<string>eth</string>
 	<key>uuid</key>
 	<string>1CAED45A-B04E-4010-AC34-3BC68412B2F9</string>
 </dict>

@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>expect not to be close to</string>
 	<key>tabTrigger</key>
-	<string>notc</string>
+	<string>notct</string>
 	<key>uuid</key>
 	<string>4D0FDFDF-1573-4BBB-B8FB-4F581E69C363</string>
 </dict>
