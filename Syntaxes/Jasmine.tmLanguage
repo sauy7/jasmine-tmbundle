@@ -24,9 +24,15 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\.(andCallFake|andCallThrough|andReturn|any|calls|createSpy|execute|log|not|reset|specFilter|toBe|toBeCloseTo|toBeDefined|toBeFalsy|toBeGreaterThan|toBeLessThan|toBeNull|toBeTruthy|toBeUndefined|toContain|toEqual|toHaveBeenCalled|toHaveBeenCalledWith|toMatch|toThrow|tick|useMock)\b</string>
+			<string>\.(andCallFake|andCallThrough|andReturn|any|calls|createSpy|execute|getEnv|log|not|reset|toBe|toBeCloseTo|toBeDefined|toBeFalsy|toBeGreaterThan|toBeLessThan|toBeNull|toBeTruthy|toBeUndefined|toContain|toEqual|toHaveBeenCalled|toHaveBeenCalledWith|toMatch|toThrow|tick|useMock)\b</string>
 			<key>name</key>
 			<string>support.function.js.jasmine</string>
+		</dict>
+		<dict>
+		  <key>match</key>
+		  <string>specFilter</string>
+		  <key>name</key>
+		  <string>entíty.name.function.js.jasmine</string>
 		</dict>
 		<dict>
 			<key>match</key>

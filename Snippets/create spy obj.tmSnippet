@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>jasmine.createSpyObj('$0',['$1']);</string>
+	<key>name</key>
+	<string>create spy obj</string>
+	<key>tabTrigger</key>
+	<string>cso</string>
+	<key>uuid</key>
+	<string>F6A910B2-C763-439B-A0F1-5D72B2CE60EF</string>
+</dict>
+</plist>
