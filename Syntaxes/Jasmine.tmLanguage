@@ -18,7 +18,13 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\.(afterEach|andCallFake|andCallThrough|andReturn|any|beforeEach|calls|createSpy|describe|expect|it|log|not|reset|runs|spyOn|toBe|toBeCloseTo|toBeDefined|toBeFalsy|toBeGreaterThan|toBeLessThan|toBeNull|toBeTruthy|toBeUndefined|toContain|toEqual|toHaveBeenCalled|toHaveBeenCalledWith|toMatch|toThrow|tick|useMock|waits|waitsFor|xdescribe|xit)\b</string>
+			<string>\b(afterEach|beforeEach|describe|expect|it|runs|spyOn|waits|waitsFor|xdescribe|xit)\b</string>
+			<key>name</key>
+			<string>support.function.js.jasmine</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\.(andCallFake|andCallThrough|andReturn|any|calls|createSpy|execute|log|not|reset|specFilter|toBe|toBeCloseTo|toBeDefined|toBeFalsy|toBeGreaterThan|toBeLessThan|toBeNull|toBeTruthy|toBeUndefined|toContain|toEqual|toHaveBeenCalled|toHaveBeenCalledWith|toMatch|toThrow|tick|useMock)\b</string>
 			<key>name</key>
 			<string>support.function.js.jasmine</string>
 		</dict>
