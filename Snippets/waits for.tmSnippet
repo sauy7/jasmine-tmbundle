@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>waits($1);</string>
+	<string>waitsFor(function() {
+	$0
+}, "${1:message}", ${2:ms});</string>
 	<key>name</key>
 	<string>waits</string>
 	<key>scope</key>
 	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>
-	<string>wa</string>
+	<string>wf</string>
 	<key>uuid</key>
 	<string>B38098FA-11FA-4002-BB35-71B05EE2DEDC</string>
 </dict>
