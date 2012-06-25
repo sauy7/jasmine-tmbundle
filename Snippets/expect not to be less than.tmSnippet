@@ -3,14 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>expect(${1:target}).wasNotCalled();</string>
+	<string>expect(${1:target}).not.toBeLessThan(${2:value});</string>
 	<key>name</key>
-	<string>expect was not called</string>
-	<key>scope</key>
-	<string>source.js.jasmine</string>
+	<string>expect not to be less than</string>
 	<key>tabTrigger</key>
-	<string>notsc</string>
+	<string>not&lt;</string>
 	<key>uuid</key>
-	<string>1E81D6CD-F292-4861-A474-AF30836F60EF</string>
+	<string>DE5EC8C7-8D52-4D5B-9BCF-D88E8BCD2BE7</string>
 </dict>
 </plist>

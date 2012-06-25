@@ -3,14 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>expect(${1:target}).wasCalledWith(${2:arguments});</string>
+	<string>expect(${1:target}).toBe(${2:value});
+</string>
 	<key>name</key>
-	<string>expect was called with</string>
-	<key>scope</key>
-	<string>source.js.jasmine</string>
+	<string>expect to be</string>
 	<key>tabTrigger</key>
-	<string>escw</string>
+	<string>eb</string>
 	<key>uuid</key>
-	<string>09DDCEC4-5548-4926-81D0-0B89F36E5780</string>
+	<string>18064063-95E8-4D10-A59A-D58E7D0FFB9A</string>
 </dict>
 </plist>

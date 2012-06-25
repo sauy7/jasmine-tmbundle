@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>content</key>
+        <string>/*global jasmine isCommonJS exports spyOn it xit expect runs waits waitsFor beforeEach afterEach describe xdescribe createSpy createSpyObj identity any calls mostRecentCall Clock useMock tick getEnv HtmlReporter addReporter jasmineEnv specFilter versionString execJasmine execute */</string>
+        <key>name</key>
+        <string>jslint globals</string>
+        <key>tabTrigger</key>
+        <string>g</string>
+        <key>uuid</key>
+        <string>6A7FFCE8-8FC3-4554-B670-B4BFCD04E7B8</string>
+</dict>
+</plist>

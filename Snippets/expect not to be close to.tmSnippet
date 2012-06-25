@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>expect(${1:target}).not.toBeCloseTo(${2:expected}, ${3:actual});</string>
+	<key>name</key>
+	<string>expect not to be close to</string>
+	<key>tabTrigger</key>
+	<string>notc</string>
+	<key>uuid</key>
+	<string>4D0FDFDF-1573-4BBB-B8FB-4F581E69C363</string>
+</dict>
+</plist>
