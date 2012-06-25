@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>waitsFor(function() {
-	$3
-}, "${0:message}", ${1:ms})</string>
+	<string>waits($0);</string>
 	<key>name</key>
-	<string>waits for</string>
+	<string>waits</string>
+	<key>scope</key>
+	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>
-	<string>wf</string>
+	<string>wa</string>
 	<key>uuid</key>
-	<string>984654CC-D809-402F-99BB-FED4AD00F011</string>
+	<string>B38098FA-11FA-4002-BB35-71B05EE2DEDC</string>
 </dict>
 </plist>

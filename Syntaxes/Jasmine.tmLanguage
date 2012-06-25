@@ -17,6 +17,18 @@
 	<key>patterns</key>
 	<array>
 		<dict>
+			<key>match</key>
+			<string>\.(afterEach|andCallFake|andCallThrough|andReturn|any|beforeEach|calls|createSpy|describe|expect|it|log|not|reset|runs|spyOn|toBe|toBeCloseTo|toBeDefined|toBeFalsy|toBeGreaterThan|toBeLessThan|toBeNull|toBeTruthy|toBeUndefined|toContain|toEqual|toHaveBeenCalled|toHaveBeenCalledWith|toMatch|toThrow|tick|useMock|waits|waitsFor|xdescribe|xit)\b</string>
+			<key>name</key>
+			<string>support.function.js.jasmine</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>(Clock|jasmine)\b</string>
+			<key>name</key>
+			<string>support.class.js.jasmine</string>
+		</dict>
+		<dict>
 			<key>include</key>
 			<string>source.js</string>
 		</dict>

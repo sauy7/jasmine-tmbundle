@@ -3,14 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>waitsFor(function() {
-	$3
-}, "${0:message}", ${1:ms})</string>
+	<string>jasmine.createSpy('$0');</string>
 	<key>name</key>
-	<string>waits for</string>
+	<string>create spy</string>
 	<key>tabTrigger</key>
-	<string>wf</string>
+	<string>cs</string>
 	<key>uuid</key>
-	<string>984654CC-D809-402F-99BB-FED4AD00F011</string>
+	<string>A3DF136A-C36E-4291-855B-02E362FABFCB</string>
 </dict>
 </plist>
