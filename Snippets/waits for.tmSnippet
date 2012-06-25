@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>waitsFor(function() {
 	$3
-}, "${1:message}", ${2:ms})</string>
+}, "${1:message}", ${2:ms});</string>
 	<key>name</key>
 	<string>waits for</string>
 	<key>tabTrigger</key>
